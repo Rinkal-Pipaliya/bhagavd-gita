@@ -1,16 +1,20 @@
-# departur_app
+### Bhagavad Geeta App
 
-A new Flutter project.
+## The Bhagavad Geeta App is a Flutter-based application that provides users with access to all chapters and verses of the Bhagavad Geeta.
+This app also features chapter-wise browsing, text-to-speech functionality for listening to verses, support for multiple languages (localization), and engaging visuals.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+# Features:
 
-A few resources to get you started if this is your first Flutter project:
+- Chapter Listing: View all chapters of the Bhagavad Geeta with an intuitive UI.
+- Verse Reading: Access all verses, including chapter-wise categorization for easy navigation.
+- Text-to-Speech: Hear the verses read aloud using the text-to-speech functionality.
+- Image Integration: Includes relevant images to enhance user experience.
+- Localization: Supports multiple languages for a diverse user base.
+- Smooth Navigation: Carousel slider and dots indicator for better user experience.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Video 
+https://github.com/user-attachments/assets/87f3275c-4fb2-4eb6-ace8-8ddbeef867e8
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src = "https://github.com/user-attachments/assets/ad316689-169a-4f76-b564-26ccc69d35ab" width = "250">
+
